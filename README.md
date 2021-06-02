@@ -1,5 +1,6 @@
-# CPSC535-SP21-Project1
-Rewriting greeting cards
+# Rewriting greeting cards
+
+CPSC535-SP21-Project1
 
 In this project we design and implement one algorithm related to strings.
 
